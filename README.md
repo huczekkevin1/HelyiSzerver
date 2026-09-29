@@ -1,0 +1,2 @@
+# HelyiSzerver
+A saját szerverem
